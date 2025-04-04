@@ -56,3 +56,6 @@ This real-time collaborative document editor efficiently handles simultaneous te
  Real-time updates for multiple users.
  Auto-save feature to prevent data loss.
  Document persistence in MongoDB.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/02c516f0-778a-4ee8-ab80-8bcf3c242af3)
